@@ -41,7 +41,7 @@ class TaskManager:
 
     def get_all_tasks(self):
         return list(self.tasks.values())
-        
+
 # -------------------------------
 # Test A
 # -------------------------------
@@ -117,3 +117,4 @@ class TestD(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
