@@ -36,3 +36,19 @@ Automated grading should be available for multiple-choice assessments.
 The system must comply with data protection regulations (e.g., GDPR, HIPAA if applicable).
 Maintenance and updates should be scheduled without disrupting user activities.
 The platform should ensure high uptime and availability through cloud-based hosting.
+
+8)
+private int intEmployeeID; // Hungarian Notation (int prefix for Integer)
+
+public Employee(int employeeID, String firstName, String lastName, String ssn, Date dob, String pin) // Pascal Case (Constructor)
+
+public void setEmployeeID(int employeeID) { this.intEmployeeID = employeeID; } // Hungarian Notation for field
+
+private String strDepartmentName; // Hungarian Notation (str prefix for String)
+
+private String strCEO; // Hungarian Notation (str prefix for String)
+
+private String strCTO; // Hungarian Notation (str prefix for String)
+
+public void AddDepartment(Department department) // Pascal Case (Method, should be `addDepartment` in Java convention)
+
