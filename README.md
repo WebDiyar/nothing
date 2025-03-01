@@ -2,6 +2,7 @@
 2) ![image](https://github.com/user-attachments/assets/6a3dfa98-cb9c-4229-911d-e8ffd1232e42)
 3) ![image](https://github.com/user-attachments/assets/bc2f2c39-88fd-486a-b47c-d12a27e3ba9e)
 4) ![image](https://github.com/user-attachments/assets/a2ecd3e3-6f15-43e9-ae42-745128844ee1)
+5) ![image](https://github.com/user-attachments/assets/7d404214-aa6e-44b6-ab46-3f3671d3dee5)
 
 6)**User Roles Availability Requirements**
 Users must be able to register, update, and delete accounts.
