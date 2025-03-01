@@ -52,3 +52,6 @@ private String strCTO; // Hungarian Notation (str prefix for String)
 
 public void AddDepartment(Department department) // Pascal Case (Method, should be `addDepartment` in Java convention)
 
+9)
+![image](https://github.com/user-attachments/assets/e4f0540d-30c2-422e-8227-078ee110b95c)
+
