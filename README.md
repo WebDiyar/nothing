@@ -37,6 +37,8 @@ The system must comply with data protection regulations (e.g., GDPR, HIPAA if ap
 Maintenance and updates should be scheduled without disrupting user activities.
 The platform should ensure high uptime and availability through cloud-based hosting.
 
+7) ![image](https://github.com/user-attachments/assets/7312bed7-4a57-43ab-bac6-e7d8ad2e43d5)
+
 8)
 private int intEmployeeID; // Hungarian Notation (int prefix for Integer)
 
