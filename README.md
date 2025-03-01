@@ -59,31 +59,21 @@ public void AddDepartment(Department department) // Pascal Case (Method, should 
 10)
 
 A: Syntax Error Bug
-Reason: In the constructor, the assignment to dblOrderTotal is missing a semicolon.
 
 B: Logical Error Bug
-Reason: The discount is applied using addition instead of subtraction.
 
 C: OK Case
-Reason: All operations are implemented correctly without errors.
 
 D: Uninitialized Field Bug
-Reason: The field dblOrderTotal is never assigned a value in the constructor.
 
 E: Method Call Error Bug
-Reason: The main method calls CalcFinalPrice() which does not exist (the method is named CalculateFinalPrice()).
 
 F: Method Call Error Bug
-Reason: The main method calls a non-existent method substract instead of the correct subtract.
 
 G: Uninitialized Field Bug
-Reason: The local variable dblResult in the subtract method is declared but never initialized.
 
 H: Logical Error Bug
-Reason: The multiply method incorrectly performs addition instead of multiplication.
 
 I: OK Case
-Reason: All methods work as expected without any errors.
 
 J: Syntax Error Bug
-Reason: The add method is missing a semicolon after the return statement.
