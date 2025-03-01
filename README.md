@@ -36,7 +36,7 @@ Automated grading should be available for multiple-choice assessments.
 The system must comply with data protection regulations (e.g., GDPR, HIPAA if applicable).
 Maintenance and updates should be scheduled without disrupting user activities.
 The platform should ensure high uptime and availability through cloud-based hosting.
-7)
+7) ![image](https://github.com/user-attachments/assets/e7e44152-ba0d-4b02-bb5b-71de81d634eb)
 
 8)
 private int intEmployeeID; // Hungarian Notation (int prefix for Integer)
